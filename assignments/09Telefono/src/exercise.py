@@ -5,6 +5,9 @@ def main():
     megas = float(input("Dame el numero de megas "))
     minutos = int(input("Dame el numero de minutos "))
 
+    costo = mensajes + megas + minutos
+    Total = costo * .8
+    print("El precio mensual es de", Total)
 
 if __name__ == '__main__':
     main()
