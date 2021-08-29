@@ -1,4 +1,4 @@
-![Tec de Monterrey](../../images/logotecmty.png)
+|00.|![Tec de Monterrey](../../images/logotecmty.png)
 # Saldo final de una cuenta bancaria
 Básicos-CuentaBancaria
 
